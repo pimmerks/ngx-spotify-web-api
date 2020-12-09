@@ -1,0 +1,23 @@
+{
+  "name": "ngx-spotify-webapi",
+  "description": "Angular library for building apps against the Spotify Web Api",
+  "version": "0.0.1-alpha.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pimmerks/ngx-spotify-web-api.git"
+  },
+  "keywords": [],
+  "author": "Pim Merks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pimmerks/ngx-spotify-web-api/issues"
+  },
+  "homepage": "https://github.com/pimmerks/ngx-spotify-web-api",
+  "peerDependencies": {
+    "@angular/common": "^11.0.3",
+    "@angular/core": "^11.0.3"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}
